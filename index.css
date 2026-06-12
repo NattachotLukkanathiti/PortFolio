@@ -5,6 +5,8 @@ body{
     background-position: center;
     font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
+    line-height: 1.7;
+  min-height: 100vh;
 }
 
 .Subtitlemain{
@@ -106,10 +108,7 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  line-height: 1.7;
-  min-height: 100vh;
-}
+
 
 
 @keyframes fadeUp {
